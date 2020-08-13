@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
+
 public class Main {
 
 	public static void main(String[] args) {
-		// 2´Ü
-//		System.out.println("2´Ü");
+		// 2ï¿½ï¿½
+//		System.out.println("2ï¿½ï¿½");
 //		System.out.println(2 * 1);
 //		System.out.println(2 * 2);
 //		System.out.println(2 * 3);
@@ -15,8 +16,8 @@ public class Main {
 //		System.out.println(2 * 8);
 //		System.out.println(2 * 9);
 
-		// 3´Ü
-//		System.out.println("3´Ü");
+		// 3ï¿½ï¿½
+//		System.out.println("3ï¿½ï¿½");
 //		System.out.println(3 * 1);
 //		System.out.println(3 * 2);
 //		System.out.println(3 * 3);
@@ -27,8 +28,8 @@ public class Main {
 //		System.out.println(3 * 8);
 //		System.out.println(3 * 9);
 		
-		// 4´Ü
-//		System.out.println("4´Ü");
+		// 4ï¿½ï¿½
+//		System.out.println("4ï¿½ï¿½");
 //		int result  = 4 * 1;
 //		System.out.println(result);
 //		result  = 4 * 2;
@@ -48,7 +49,7 @@ public class Main {
 //		result  = 4 * 9;
 //		System.out.println(result);
 		
-		System.out.println("±¸±¸´Ü Áß Ãâ·ÂÇÒ ´ÜÀº? : ");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½? : ");
 		Scanner scanner = new Scanner(System.in);
 		int number = scanner.nextInt();
 		System.out.println(number*1);
